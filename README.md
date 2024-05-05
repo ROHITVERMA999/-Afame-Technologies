@@ -1,2 +1,13 @@
-# -Afame-Technologies
-SALES DATA ANALYSIS(project 1)-Use sales data analysis to find patterns, best-selling items, and revenue indicators to help in business decision making. HR DATA ANALYSIS(project 2)-Did Data cleansing , removed unnecessary columns, Gave the columns new names,Eliminated redundant entries. sanitizing specific columns. 
+Afame Technologies
+
+SALES DATA ANALYSIS (Project 1):
+Utilize sales data analysis to identify patterns, best-selling items, and revenue indicators to assist in business decision-making.
+
+HR DATA ANALYSIS (Project 2):
+Performed data cleansing, removed unnecessary columns, assigned new names to columns, and eliminated redundant entries. Sanitized specific columns.
+
+
+
+
+
+
